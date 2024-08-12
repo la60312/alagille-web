@@ -68,3 +68,12 @@
 .AboutUs .member p {
   font-size: 0.7em; /* Adjust the font size as needed */
 }
+
+.number-container {
+  display: inline-block; /* Only as wide as necessary */
+  padding: 10px; /* Add padding if needed */
+  background-color: #f0f0f0; /* Example background color */
+  border-radius: 5px; /* Optional: if you want rounded corners */
+}
+
+
