@@ -27,8 +27,7 @@ function ProjectDescription() {
               heart, and kidneys. It is caused by mutations in the <i>JAG1</i> or <i>NOTCH2</i> genes. The syndrome is
               characterized by a distinctive facial appearance, which can be subtle and difficult to recognize. However,
               Early diagnosis is important for timely medical intervention and management of the disease. In general,
-              the
-              treatment outcomes are better when the disease is diagnosed early. Therefore, this project aims to
+              the treatment outcomes are better when the disease is diagnosed early. Therefore, this project aims to
               improve the diagnosis of Alagille syndrome by using artificial intelligence to analyze facial images.
           </p>
           <h3>How?</h3>

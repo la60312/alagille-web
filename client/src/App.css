@@ -98,3 +98,15 @@
   margin-top: 0.5em;
 }
 
+.References h3 {
+  font-size: 1.0em;
+}
+
+
+.References p {
+  font-size: 0.8em;
+}
+
+.References a {
+  font-size: 0.7em;
+}
